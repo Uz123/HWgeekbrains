@@ -1,4 +1,3 @@
-""" Класс 1 """
 from random import choice
 from time import sleep
 print("\n" + "1" + 24 * "-")
